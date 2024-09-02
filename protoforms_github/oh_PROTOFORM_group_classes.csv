@@ -1,0 +1,145 @@
+,Id,protoform,DoT,DoS,DoF,class,label
+0,0.0,"Among records that contribute against predicting 0 class, most of them have energy-related features at low level.",0.0,0.6013333333333334,0.7131985999686826,0,energy
+1,1.0,"Among records that contribute against predicting 0 class, most of them have energy-related features at medium level.",0.0,0.21542857142857144,0.7131985999686826,0,energy
+2,2.0,"Among records that contribute against predicting 0 class, most of them have energy-related features at high level.",0.0,0.5964761904761905,0.7131985999686826,0,energy
+3,3.0,"Among records that contribute around zero to predicting 0 class, most of them have energy-related features at low level.",0.0,0.19133333333333333,0.059406393507151344,0,energy
+4,4.0,"Among records that contribute around zero to predicting 0 class, most of them have energy-related features at medium level.",0.0,0.06247619047619048,0.059406393507151344,0,energy
+5,5.0,"Among records that contribute around zero to predicting 0 class, most of them have energy-related features at high level.",0.3889097851864022,0.18219047619047618,0.059406393507151344,0,energy
+6,6.0,"Among records that contribute positively to predicting 0 class, most of them have energy-related features at low level.",0.0,0.17923809523809525,0.22406167319083167,0,energy
+7,7.0,"Among records that contribute positively to predicting 0 class, most of them have energy-related features at medium level.",0.0,0.04533333333333334,0.22406167319083167,0,energy
+8,8.0,"Among records that contribute positively to predicting 0 class, most of them have energy-related features at high level.",0.0,0.15828571428571428,0.22406167319083167,0,energy
+0,0.0,"Among records that contribute against predicting 0 class, most of them have pitch-related features at low level.",0.0,0.3861111111111111,0.4816124012856559,0,pitch
+1,1.0,"Among records that contribute against predicting 0 class, most of them have pitch-related features at medium level.",0.0,0.26166666666666666,0.4816124012856559,0,pitch
+2,2.0,"Among records that contribute against predicting 0 class, most of them have pitch-related features at high level.",0.0,0.2875,0.4816124012856559,0,pitch
+3,3.0,"Among records that contribute around zero to predicting 0 class, most of them have pitch-related features at low level.",0.0,0.04416666666666667,0.031408095782919684,0,pitch
+4,4.0,"Among records that contribute around zero to predicting 0 class, most of them have pitch-related features at medium level.",0.0,0.034722222222222224,0.031408095782919684,0,pitch
+5,5.0,"Among records that contribute around zero to predicting 0 class, most of them have pitch-related features at high level.",0.0,0.04138888888888889,0.031408095782919684,0,pitch
+6,6.0,"Among records that contribute positively to predicting 0 class, most of them have pitch-related features at low level.",0.0,0.31972222222222224,0.48364616959809137,0,pitch
+7,7.0,"Among records that contribute positively to predicting 0 class, most of them have pitch-related features at medium level.",0.0,0.22805555555555557,0.48364616959809137,0,pitch
+8,8.0,"Among records that contribute positively to predicting 0 class, most of them have pitch-related features at high level.",0.0,0.34444444444444444,0.48364616959809137,0,pitch
+0,0.0,"Among records that contribute against predicting 0 class, most of them have spectral-related features at low level.",0.0,0.24407407407407408,0.5591796821791458,0,spectral
+1,1.0,"Among records that contribute against predicting 0 class, most of them have spectral-related features at medium level.",0.0,0.267037037037037,0.5591796821791458,0,spectral
+2,2.0,"Among records that contribute against predicting 0 class, most of them have spectral-related features at high level.",1.0,0.49592592592592594,0.5591796821791458,0,spectral
+3,3.0,"Among records that contribute around zero to predicting 0 class, most of them have spectral-related features at low level.",0.0,0.16111111111111112,0.05039967423831524,0,spectral
+4,4.0,"Among records that contribute around zero to predicting 0 class, most of them have spectral-related features at medium level.",0.0,0.056666666666666664,0.05039967423831524,0,spectral
+5,5.0,"Among records that contribute around zero to predicting 0 class, most of them have spectral-related features at high level.",0.0,0.1337037037037037,0.05039967423831524,0,spectral
+6,6.0,"Among records that contribute positively to predicting 0 class, most of them have spectral-related features at low level.",1.0,0.35333333333333333,0.38708731024920534,0,spectral
+7,7.0,"Among records that contribute positively to predicting 0 class, most of them have spectral-related features at medium level.",0.0,0.19814814814814816,0.38708731024920534,0,spectral
+8,8.0,"Among records that contribute positively to predicting 0 class, most of them have spectral-related features at high level.",0.0,0.07962962962962963,0.38708731024920534,0,spectral
+0,0.0,"Among records that contribute against predicting 0 class, most of them have quality-related features at low level.",0.0,0.6706666666666666,0.7705323855012317,0,quality
+1,1.0,"Among records that contribute against predicting 0 class, most of them have quality-related features at medium level.",0.0,0.066,0.7705323855012317,0,quality
+2,2.0,"Among records that contribute against predicting 0 class, most of them have quality-related features at high level.",1.0,0.68,0.7705323855012317,0,quality
+3,3.0,"Among records that contribute around zero to predicting 0 class, most of them have quality-related features at low level.",0.38904332909784356,0.022,0.013187698588472907,0,quality
+4,4.0,"Among records that contribute around zero to predicting 0 class, most of them have quality-related features at medium level.",0.0,0.0,0.013187698588472907,0,quality
+5,5.0,"Among records that contribute around zero to predicting 0 class, most of them have quality-related features at high level.",1.0,0.02,0.013187698588472907,0,quality
+6,6.0,"Among records that contribute positively to predicting 0 class, most of them have quality-related features at low level.",0.20466612593679773,0.19066666666666668,0.21294658257696197,0,quality
+7,7.0,"Among records that contribute positively to predicting 0 class, most of them have quality-related features at medium level.",0.0,0.044,0.21294658257696197,0,quality
+8,8.0,"Among records that contribute positively to predicting 0 class, most of them have quality-related features at high level.",0.0,0.14,0.21294658257696197,0,quality
+0,0.0,"Among records that contribute against predicting 1 class, most of them have energy-related features at low level.",0.0,0.5500952380952381,0.7131985999686826,1,energy
+1,1.0,"Among records that contribute against predicting 1 class, most of them have energy-related features at medium level.",0.0,0.3455238095238095,0.7131985999686826,1,energy
+2,2.0,"Among records that contribute against predicting 1 class, most of them have energy-related features at high level.",0.0,0.5367619047619048,0.7131985999686826,1,energy
+3,3.0,"Among records that contribute around zero to predicting 1 class, most of them have energy-related features at low level.",0.0,0.16885714285714284,0.059406393507151344,1,energy
+4,4.0,"Among records that contribute around zero to predicting 1 class, most of them have energy-related features at medium level.",0.0,0.06761904761904762,0.059406393507151344,1,energy
+5,5.0,"Among records that contribute around zero to predicting 1 class, most of them have energy-related features at high level.",0.1250058097739382,0.18266666666666667,0.059406393507151344,1,energy
+6,6.0,"Among records that contribute positively to predicting 1 class, most of them have energy-related features at low level.",0.0,0.1600952380952381,0.22406167319083167,1,energy
+7,7.0,"Among records that contribute positively to predicting 1 class, most of them have energy-related features at medium level.",0.0,0.08342857142857144,0.22406167319083167,1,energy
+8,8.0,"Among records that contribute positively to predicting 1 class, most of them have energy-related features at high level.",0.0,0.16085714285714287,0.22406167319083167,1,energy
+0,0.0,"Among records that contribute against predicting 1 class, most of them have pitch-related features at low level.",0.042516716622987845,0.38666666666666666,0.4816124012856559,1,pitch
+1,1.0,"Among records that contribute against predicting 1 class, most of them have pitch-related features at medium level.",0.0,0.2991666666666667,0.4816124012856559,1,pitch
+2,2.0,"Among records that contribute against predicting 1 class, most of them have pitch-related features at high level.",0.0,0.21666666666666667,0.4816124012856559,1,pitch
+3,3.0,"Among records that contribute around zero to predicting 1 class, most of them have pitch-related features at low level.",0.0,0.042222222222222223,0.031408095782919684,1,pitch
+4,4.0,"Among records that contribute around zero to predicting 1 class, most of them have pitch-related features at medium level.",0.0,0.04388888888888889,0.031408095782919684,1,pitch
+5,5.0,"Among records that contribute around zero to predicting 1 class, most of them have pitch-related features at high level.",0.0,0.05277777777777778,0.031408095782919684,1,pitch
+6,6.0,"Among records that contribute positively to predicting 1 class, most of them have pitch-related features at low level.",0.0,0.25583333333333336,0.48364616959809137,1,pitch
+7,7.0,"Among records that contribute positively to predicting 1 class, most of them have pitch-related features at medium level.",0.0,0.20444444444444446,0.48364616959809137,1,pitch
+8,8.0,"Among records that contribute positively to predicting 1 class, most of them have pitch-related features at high level.",0.3470483704197403,0.38916666666666666,0.48364616959809137,1,pitch
+0,0.0,"Among records that contribute against predicting 1 class, most of them have spectral-related features at low level.",0.0,0.4222222222222222,0.5591796821791458,1,spectral
+1,1.0,"Among records that contribute against predicting 1 class, most of them have spectral-related features at medium level.",0.0,0.3351851851851852,0.5591796821791458,1,spectral
+2,2.0,"Among records that contribute against predicting 1 class, most of them have spectral-related features at high level.",0.0,0.3151851851851852,0.5591796821791458,1,spectral
+3,3.0,"Among records that contribute around zero to predicting 1 class, most of them have spectral-related features at low level.",0.0,0.12481481481481481,0.05039967423831524,1,spectral
+4,4.0,"Among records that contribute around zero to predicting 1 class, most of them have spectral-related features at medium level.",0.0,0.12703703703703703,0.05039967423831524,1,spectral
+5,5.0,"Among records that contribute around zero to predicting 1 class, most of them have spectral-related features at high level.",0.0,0.15888888888888889,0.05039967423831524,1,spectral
+6,6.0,"Among records that contribute positively to predicting 1 class, most of them have spectral-related features at low level.",0.0,0.1774074074074074,0.38708731024920534,1,spectral
+7,7.0,"Among records that contribute positively to predicting 1 class, most of them have spectral-related features at medium level.",0.0,0.20592592592592593,0.38708731024920534,1,spectral
+8,8.0,"Among records that contribute positively to predicting 1 class, most of them have spectral-related features at high level.",0.0,0.2903703703703704,0.38708731024920534,1,spectral
+0,0.0,"Among records that contribute against predicting 1 class, most of them have quality-related features at low level.",0.0,0.6073333333333333,0.7705323855012317,1,quality
+1,1.0,"Among records that contribute against predicting 1 class, most of them have quality-related features at medium level.",0.0,0.15133333333333332,0.7705323855012317,1,quality
+2,2.0,"Among records that contribute against predicting 1 class, most of them have quality-related features at high level.",0.1854115531042267,0.628,0.7705323855012317,1,quality
+3,3.0,"Among records that contribute around zero to predicting 1 class, most of them have quality-related features at low level.",0.0,0.019333333333333334,0.013187698588472907,1,quality
+4,4.0,"Among records that contribute around zero to predicting 1 class, most of them have quality-related features at medium level.",0.0,0.006666666666666667,0.013187698588472907,1,quality
+5,5.0,"Among records that contribute around zero to predicting 1 class, most of them have quality-related features at high level.",1.0,0.02,0.013187698588472907,1,quality
+6,6.0,"Among records that contribute positively to predicting 1 class, most of them have quality-related features at low level.",0.4315804843895211,0.18866666666666668,0.21294658257696197,1,quality
+7,7.0,"Among records that contribute positively to predicting 1 class, most of them have quality-related features at medium level.",0.0,0.07866666666666666,0.21294658257696197,1,quality
+8,8.0,"Among records that contribute positively to predicting 1 class, most of them have quality-related features at high level.",0.0,0.10333333333333333,0.21294658257696197,1,quality
+0,0.0,"Among records that contribute against predicting 2 class, most of them have energy-related features at low level.",0.18367122296716779,0.6606666666666666,0.7131985999686826,2,energy
+1,1.0,"Among records that contribute against predicting 2 class, most of them have energy-related features at medium level.",0.0,0.15876190476190477,0.7131985999686826,2,energy
+2,2.0,"Among records that contribute against predicting 2 class, most of them have energy-related features at high level.",0.0,0.6186666666666667,0.7131985999686826,2,energy
+3,3.0,"Among records that contribute around zero to predicting 2 class, most of them have energy-related features at low level.",0.9853978581525527,0.2059047619047619,0.059406393507151344,2,energy
+4,4.0,"Among records that contribute around zero to predicting 2 class, most of them have energy-related features at medium level.",0.0,0.03666666666666667,0.059406393507151344,2,energy
+5,5.0,"Among records that contribute around zero to predicting 2 class, most of them have energy-related features at high level.",0.5794024977974811,0.18352380952380953,0.059406393507151344,2,energy
+6,6.0,"Among records that contribute positively to predicting 2 class, most of them have energy-related features at low level.",0.0,0.192,0.22406167319083167,2,energy
+7,7.0,"Among records that contribute positively to predicting 2 class, most of them have energy-related features at medium level.",0.0,0.061714285714285715,0.22406167319083167,2,energy
+8,8.0,"Among records that contribute positively to predicting 2 class, most of them have energy-related features at high level.",0.0,0.18752380952380954,0.22406167319083167,2,energy
+0,0.0,"Among records that contribute against predicting 2 class, most of them have pitch-related features at low level.",0.0,0.44666666666666666,0.4816124012856559,2,pitch
+1,1.0,"Among records that contribute against predicting 2 class, most of them have pitch-related features at medium level.",0.0,0.225,0.4816124012856559,2,pitch
+2,2.0,"Among records that contribute against predicting 2 class, most of them have pitch-related features at high level.",0.0,0.4,0.4816124012856559,2,pitch
+3,3.0,"Among records that contribute around zero to predicting 2 class, most of them have pitch-related features at low level.",1.0,0.059166666666666666,0.031408095782919684,2,pitch
+4,4.0,"Among records that contribute around zero to predicting 2 class, most of them have pitch-related features at medium level.",0.0,0.011111111111111112,0.031408095782919684,2,pitch
+5,5.0,"Among records that contribute around zero to predicting 2 class, most of them have pitch-related features at high level.",0.7415894440713101,0.0525,0.031408095782919684,2,pitch
+6,6.0,"Among records that contribute positively to predicting 2 class, most of them have pitch-related features at low level.",0.0,0.38333333333333336,0.48364616959809137,2,pitch
+7,7.0,"Among records that contribute positively to predicting 2 class, most of them have pitch-related features at medium level.",0.0,0.09916666666666667,0.48364616959809137,2,pitch
+8,8.0,"Among records that contribute positively to predicting 2 class, most of them have pitch-related features at high level.",0.03995063482251316,0.41333333333333333,0.48364616959809137,2,pitch
+0,0.0,"Among records that contribute against predicting 2 class, most of them have spectral-related features at low level.",0.0,0.3611111111111111,0.5591796821791458,2,spectral
+1,1.0,"Among records that contribute against predicting 2 class, most of them have spectral-related features at medium level.",0.0,0.32592592592592595,0.5591796821791458,2,spectral
+2,2.0,"Among records that contribute against predicting 2 class, most of them have spectral-related features at high level.",0.0,0.4696296296296296,0.5591796821791458,2,spectral
+3,3.0,"Among records that contribute around zero to predicting 2 class, most of them have spectral-related features at low level.",0.6646360993894008,0.1674074074074074,0.05039967423831524,2,spectral
+4,4.0,"Among records that contribute around zero to predicting 2 class, most of them have spectral-related features at medium level.",0.0,0.07333333333333333,0.05039967423831524,2,spectral
+5,5.0,"Among records that contribute around zero to predicting 2 class, most of them have spectral-related features at high level.",0.0,0.15555555555555556,0.05039967423831524,2,spectral
+6,6.0,"Among records that contribute positively to predicting 2 class, most of them have spectral-related features at low level.",0.8688332731849504,0.3118518518518518,0.38708731024920534,2,spectral
+7,7.0,"Among records that contribute positively to predicting 2 class, most of them have spectral-related features at medium level.",0.0,0.19666666666666666,0.38708731024920534,2,spectral
+8,8.0,"Among records that contribute positively to predicting 2 class, most of them have spectral-related features at high level.",0.0,0.18,0.38708731024920534,2,spectral
+0,0.0,"Among records that contribute against predicting 2 class, most of them have quality-related features at low level.",0.0,0.716,0.7705323855012317,2,quality
+1,1.0,"Among records that contribute against predicting 2 class, most of them have quality-related features at medium level.",0.0,0.08733333333333333,0.7705323855012317,2,quality
+2,2.0,"Among records that contribute against predicting 2 class, most of them have quality-related features at high level.",0.15545541684382605,0.6966666666666667,0.7705323855012317,2,quality
+3,3.0,"Among records that contribute around zero to predicting 2 class, most of them have quality-related features at low level.",1.0,0.02266666666666667,0.013187698588472907,2,quality
+4,4.0,"Among records that contribute around zero to predicting 2 class, most of them have quality-related features at medium level.",0.0,0.0,0.013187698588472907,2,quality
+5,5.0,"Among records that contribute around zero to predicting 2 class, most of them have quality-related features at high level.",0.0,0.020666666666666667,0.013187698588472907,2,quality
+6,6.0,"Among records that contribute positively to predicting 2 class, most of them have quality-related features at low level.",1.0,0.19933333333333333,0.21294658257696197,2,quality
+7,7.0,"Among records that contribute positively to predicting 2 class, most of them have quality-related features at medium level.",0.0,0.07866666666666666,0.21294658257696197,2,quality
+8,8.0,"Among records that contribute positively to predicting 2 class, most of them have quality-related features at high level.",0.0,0.16866666666666666,0.21294658257696197,2,quality
+0,0.0,"Among records that contribute against predicting 3 class, most of them have energy-related features at low level.",0.0,0.5706666666666667,0.7131985999686826,3,energy
+1,1.0,"Among records that contribute against predicting 3 class, most of them have energy-related features at medium level.",0.0,0.3242857142857143,0.7131985999686826,3,energy
+2,2.0,"Among records that contribute against predicting 3 class, most of them have energy-related features at high level.",0.0,0.5724761904761905,0.7131985999686826,3,energy
+3,3.0,"Among records that contribute around zero to predicting 3 class, most of them have energy-related features at low level.",0.24464139907457333,0.18342857142857144,0.059406393507151344,3,energy
+4,4.0,"Among records that contribute around zero to predicting 3 class, most of them have energy-related features at medium level.",0.0,0.0840952380952381,0.059406393507151344,3,energy
+5,5.0,"Among records that contribute around zero to predicting 3 class, most of them have energy-related features at high level.",0.0,0.18361904761904763,0.059406393507151344,3,energy
+6,6.0,"Among records that contribute positively to predicting 3 class, most of them have energy-related features at low level.",0.0,0.15495238095238095,0.22406167319083167,3,energy
+7,7.0,"Among records that contribute positively to predicting 3 class, most of them have energy-related features at medium level.",0.0,0.07819047619047619,0.22406167319083167,3,energy
+8,8.0,"Among records that contribute positively to predicting 3 class, most of them have energy-related features at high level.",0.0,0.1741904761904762,0.22406167319083167,3,energy
+0,0.0,"Among records that contribute against predicting 3 class, most of them have pitch-related features at low level.",0.0,0.21722222222222223,0.4816124012856559,3,pitch
+1,1.0,"Among records that contribute against predicting 3 class, most of them have pitch-related features at medium level.",0.0,0.29888888888888887,0.4816124012856559,3,pitch
+2,2.0,"Among records that contribute against predicting 3 class, most of them have pitch-related features at high level.",0.0,0.3938888888888889,0.4816124012856559,3,pitch
+3,3.0,"Among records that contribute around zero to predicting 3 class, most of them have pitch-related features at low level.",0.0,0.04722222222222222,0.031408095782919684,3,pitch
+4,4.0,"Among records that contribute around zero to predicting 3 class, most of them have pitch-related features at medium level.",0.0,0.04416666666666667,0.031408095782919684,3,pitch
+5,5.0,"Among records that contribute around zero to predicting 3 class, most of them have pitch-related features at high level.",0.0,0.041944444444444444,0.031408095782919684,3,pitch
+6,6.0,"Among records that contribute positively to predicting 3 class, most of them have pitch-related features at low level.",0.3513664419825014,0.38083333333333336,0.48364616959809137,3,pitch
+7,7.0,"Among records that contribute positively to predicting 3 class, most of them have pitch-related features at medium level.",0.0,0.24944444444444444,0.48364616959809137,3,pitch
+8,8.0,"Among records that contribute positively to predicting 3 class, most of them have pitch-related features at high level.",0.0,0.26916666666666667,0.48364616959809137,3,pitch
+0,0.0,"Among records that contribute against predicting 3 class, most of them have spectral-related features at low level.",0.7996194465988928,0.4981481481481482,0.5591796821791458,3,spectral
+1,1.0,"Among records that contribute against predicting 3 class, most of them have spectral-related features at medium level.",0.0,0.2696296296296296,0.5591796821791458,3,spectral
+2,2.0,"Among records that contribute against predicting 3 class, most of them have spectral-related features at high level.",0.0,0.3074074074074074,0.5591796821791458,3,spectral
+3,3.0,"Among records that contribute around zero to predicting 3 class, most of them have spectral-related features at low level.",0.0,0.1511111111111111,0.05039967423831524,3,spectral
+4,4.0,"Among records that contribute around zero to predicting 3 class, most of them have spectral-related features at medium level.",0.0,0.06185185185185185,0.05039967423831524,3,spectral
+5,5.0,"Among records that contribute around zero to predicting 3 class, most of them have spectral-related features at high level.",0.0,0.14851851851851852,0.05039967423831524,3,spectral
+6,6.0,"Among records that contribute positively to predicting 3 class, most of them have spectral-related features at low level.",0.0,0.13,0.38708731024920534,3,spectral
+7,7.0,"Among records that contribute positively to predicting 3 class, most of them have spectral-related features at medium level.",0.0,0.20444444444444446,0.38708731024920534,3,spectral
+8,8.0,"Among records that contribute positively to predicting 3 class, most of them have spectral-related features at high level.",0.7569342778544144,0.32037037037037036,0.38708731024920534,3,spectral
+0,0.0,"Among records that contribute against predicting 3 class, most of them have quality-related features at low level.",0.0,0.628,0.7705323855012317,3,quality
+1,1.0,"Among records that contribute against predicting 3 class, most of them have quality-related features at medium level.",0.0,0.148,0.7705323855012317,3,quality
+2,2.0,"Among records that contribute against predicting 3 class, most of them have quality-related features at high level.",0.0,0.6326666666666667,0.7705323855012317,3,quality
+3,3.0,"Among records that contribute around zero to predicting 3 class, most of them have quality-related features at low level.",1.0,0.021333333333333333,0.013187698588472907,3,quality
+4,4.0,"Among records that contribute around zero to predicting 3 class, most of them have quality-related features at medium level.",0.0,0.006,0.013187698588472907,3,quality
+5,5.0,"Among records that contribute around zero to predicting 3 class, most of them have quality-related features at high level.",1.0,0.022,0.013187698588472907,3,quality
+6,6.0,"Among records that contribute positively to predicting 3 class, most of them have quality-related features at low level.",0.0,0.12133333333333333,0.21294658257696197,3,quality
+7,7.0,"Among records that contribute positively to predicting 3 class, most of them have quality-related features at medium level.",0.0,0.092,0.21294658257696197,3,quality
+8,8.0,"Among records that contribute positively to predicting 3 class, most of them have quality-related features at high level.",0.40144691572213353,0.18933333333333333,0.21294658257696197,3,quality
